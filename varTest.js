@@ -5,7 +5,7 @@ if(true){
     var test = "C"
     let testB = "inner1"
     if(true){
-        var test = "hehe"
+        var test = "hehe1"
         let testB = "inner2"
     }
     console.log(test)
